@@ -1,1 +1,1 @@
-console.log('config.js')
+console.log('config.js edited bu feature2')
